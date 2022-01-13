@@ -6,4 +6,4 @@ var house = ("Gryffindor")
 var favTeacher = ("Dumbledore")
 var bestFriends = 2
 
-var slytherineStudents = ['Malfoy', 'Crabbe', 'Goyle'];
+var slytherinStudents = ['Malfoy', 'Crabbe', 'Goyle', 'Parkinson'];
